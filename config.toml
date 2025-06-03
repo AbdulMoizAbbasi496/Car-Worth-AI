@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4285F4"              # Google blue
+backgroundColor = "#FFFFFF"           # Google white
+secondaryBackgroundColor = "#F1F3F4"  # Google light gray
+textColor = "#202124"                 # Google black-gray
+font = "sans serif"
